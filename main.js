@@ -83,14 +83,14 @@ function editTask(event) {
  
 
   if (event.value === "") {
-    alert("Task is empty!");
+    alert("First write something then add task fool");
     event.value = currentTask;
     return;
   }
   
   tasks.forEach(task => {
     if (task.task === event.value) {
-      alert("Task already exist!");
+      alert("why do you want to do same work again from beginning ,fool");
       event.value = currentTask;
       return;
     }
