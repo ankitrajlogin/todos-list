@@ -1,7 +1,6 @@
 # MERN Stack Todo List
 This is a MERN stack-based Todo List application that allows users to manage their tasks. The app supports features such as adding new tasks, marking tasks as done/undone, and deleting tasks. It integrates with a backend powered by Node.js and MongoDB to persist user tasks.
 
-## Link: https://ankitrajlogin.github.io/todos-list/
 
 
 Features
